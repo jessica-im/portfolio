@@ -1,0 +1,35 @@
+* {
+     font-family: 'Pangolin';
+     padding-inline-start: 0px;
+}
+
+header {
+     display: flex;
+     color: rgb(204,204,255);
+}
+
+li {
+     list-style-type: none;
+     display: inline;
+}
+
+#about {
+     background-color: rgb(203,204,152);
+}
+
+#portfolio {
+     background-color: rgb(244,198,197);
+     display: flex;
+     flex-wrap: wrap;
+}
+
+.project {
+     background-color: white;
+     width: 40%;
+     margin: 10px;
+}
+
+#footer {
+     background-color: black;
+     color: white;
+}
